@@ -1,0 +1,1 @@
+Here is some exmaple text in this file. I hope I can become really good at git in the future and I actually use its workflow to make me more efficient, along with neoVim that seems so sick and right up my alley.
